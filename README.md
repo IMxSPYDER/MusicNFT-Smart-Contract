@@ -86,7 +86,7 @@ event MusicCopyrightRegistered(address indexed artist, string ipfsHash, uint256 
 - MusicNFTMinted → Triggered when a music NFT is created.
 - MusicCopyrightRegistered → Triggered when a song is registered without an NFT.
 
-### 7️⃣ Constructo
+### 7️⃣ Constructor
 ```solidity
 constructor() ERC721("MusicNFT", "MNFT") Ownable(msg.sender) {}
 ```
