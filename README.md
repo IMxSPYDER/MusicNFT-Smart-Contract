@@ -1,4 +1,4 @@
-# **🎵 MusicNFT - Blockchain-Based Music Copyright & NFT Minting**
+# **🎵MusicNFT- Blockchain-Based Music Copyright & NFT Minting**
 
 ## 📌 Overview
 MusicNFT is a decentralized blockchain-based smart contract that allows new music artists to:Register copyright for their music without expensive legal processes.
